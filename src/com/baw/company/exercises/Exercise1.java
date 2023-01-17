@@ -3,7 +3,7 @@ package com.baw.company.exercises;
 import java.util.ArrayList;
 import java.util.List;
 
-public class exercise1 {
+public class Exercise1 {
 
     //Segregate positive and negative numbers
 
